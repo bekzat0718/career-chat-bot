@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bekachat-dukk",
+  "private_key_id": "2d28d29f82cef6f011bf3f7dcd99e72d44f00730",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNQkMjg6nMHKK1\n8CMBH5aISN77Yc6BupaNcCvxAD3JbAitG4nSOERfZoqtac9hhofVJpuBxSbTA4F+\nwBmlSNUlVR2Evb++c/Qt+PSgZdf2qgQ01zoCgilS4mm72Xocju67Wpy4aMO3NdBY\n+kvK70jM8XY+6micFStW3KJ+FnvvnJ+n3ZU7Gh4RZaYVq564qGeSRXaURPx9sA5/\nzNJ81lB5J6rmcc0qbB9E3VYz/MI/MsXvPC6Gafsw2DJuFgBy0I5jTYcGvgW15XpB\npmIeQkmHFkbjbAv+b3I8Dx6bxVbQ89xSIwsNWizCXNekTMmrxbaqVqpSPmq0kWvh\nOSYj0Nr9AgMBAAECggEAP3VEd4bdqH6T6WbYE6FV80WANrzK0P3ETO8IjsZR0+OE\nHSy949HEhbAYoLttQ4wJk6MPgcPXmHZlgy/V3e1SBGw3p5HYZYPI0qu8yZgi+B4h\nFcsSorLmHrtkEBEQ+SJReXfuqu6sz4giJVggtZlb6wydz569/79lukGVNSEzaOT3\nnVyv1jNM6ugSCyAI8rD8sVrfa6NL+zzYTJUcOAFYrAiOekAcLvHWIWyCzMlJ1Qvl\nLY7QXCt44cATEyN2bYVK3BSkmPCPIyWrw1sYosbArIQERa5ygP4wrb8HW5iKbw//\nJLw71hD+EguWoRHbyrvMayuYlRU28CFA9LTR6zqRqwKBgQD4gvNT9NbJwZ1qEhSi\nJPgFazag8ypLEwHXruWRGQ4AYZn5DaDdkr2TPGQ4mG9xpN4wogFdOAn+6J9uV6wH\nQUlvDEf7NAxPcnRRb0/A3q2Jvd7/AfWrcKMuc4yVcXLSw8U80JP3tWipzgWX0PWs\nGecKr2gQD2kyFJf5b5xEM0RxHwKBgQDTcaevnzXT23qelpg+LIbUOlTdnuWRiec/\nRQZNOIbC4xJsU45Jxc+sq/wNtzIiYwgFEdinDjrtTP3vKchawnV14jNE7zcb9VYL\n2yPrkv24PvarSe/SDZV1i9Qi52wesABYc4xnA4HX7EpacfBTq70JObU2Tg4fKvEw\najLzabdkYwKBgQCCftEjrxfyzhbJEkF/e4Y54jjHf6kfzxVSmua1sMBndtkRrRRi\nBaJC5J2EEpfCx15dj1TEDJ9DGghOOv98t83F4F8UDBrCxUlLUfZBQy1BfVDR+8dz\nhSxLQiX6e55eCqtR6f0pQDt7n1HUjMfU3a0zMTSl6lHFGIdNVkxqi7lO5QKBgBqf\nqPmYFnMCo8HsPGc3vBJk9eKh604UCyYQTubSQ0WuydcR/kyTt76KOUaQ1qM1zQC2\nao0+YXUXyLGglTW4XonlXYdEh6/hiGAdy7wR2hik9PJEcQoF49fVL3TlptuGVcTN\nZ9RgwKyreAFDb3tZmIfc2FBqK6UJBy2NcbTsjsb5AoGBAOcQUiv+XKAlJIss3VrG\nGZaaki+8QifEpCjNF7XEi9a8BwHEsjeLq/T5wu3+RiKPN7t5o7NHJrsFYLHYw8Ge\nsefzFWPG+Hv1XqAqaXBumFW6PAO7LNcaifrSwmLt/Qdvvu95RqX3QiiUdmEDIX62\n0+0Sj5TvAUW8CEipxq4bPuPM\n-----END PRIVATE KEY-----\n",
+  "client_email": "bekachat@bekachat-dukk.iam.gserviceaccount.com",
+  "client_id": "101830141086945496649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bekachat%40bekachat-dukk.iam.gserviceaccount.com"
+}
